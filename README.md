@@ -32,7 +32,7 @@ Before getting started, you'll want to install:
 Now you can clone and run the project:
 
 ```bash
-git clone https://github.com/revoltchat/admin-panel
+git clone --recursive https://github.com/revoltchat/admin-panel
 cd admin-panel
 bun install
 ```
